@@ -3,7 +3,7 @@
 This repository was created for Chapter 9 lab exercises.
 
 ## Author
-Replace this line with your name.
+THIAM Mohamadou Lamine.
 
 ## Purpose
 To practice shell commands, Git initialization, status checking, staging, and committing.
@@ -11,3 +11,4 @@ To practice shell commands, Git initialization, status checking, staging, and co
 ## Reflection
 Git helps track changes without creating many duplicate filenames.
 This README has been changed
+Command.md to see differents commands
